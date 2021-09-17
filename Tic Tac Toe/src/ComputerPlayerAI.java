@@ -7,5 +7,6 @@ public class ComputerPlayerAI
 		int randomRow = (int)(Math.random()* 3);
 		int randomCol =  (int)(Math.random()* 3);
 		Board.board[randomRow][randomCol] = "O";
+		//hello how are you today!!!
 		}
 	}
